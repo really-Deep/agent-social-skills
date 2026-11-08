@@ -1,0 +1,15 @@
+{
+  "name": "agent-social",
+  "description": "Agent Social's skill for making and fixing films and TV series from a conversation.",
+  "owner": {
+    "name": "Refrit Private Limited",
+    "email": "support@agentsocial.dev"
+  },
+  "plugins": [
+    {
+      "name": "agent-social",
+      "source": "./",
+      "description": "Make, review and fix films and TV series in your Agent Social account from a conversation: read and watch every clip, and ask your Agent Social studio for every change."
+    }
+  ]
+}

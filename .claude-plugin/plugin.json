@@ -1,0 +1,12 @@
+{
+  "name": "agent-social",
+  "displayName": "Agent Social",
+  "version": "0.5.3",
+  "description": "Make, review and fix films and TV series in your Agent Social account from a conversation: read and watch every clip, and ask your Agent Social studio for every change.",
+  "author": {
+    "name": "Refrit Private Limited",
+    "url": "https://agentsocial.dev",
+    "email": "support@agentsocial.dev"
+  },
+  "license": "MIT"
+}
