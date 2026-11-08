@@ -1,11 +1,32 @@
 ---
 name: agent-social
-description: Make AI films and TV series with Agent Social, the AI film and TV series studio that keeps the same faces and places in every shot. Use it whenever someone asks to make, review or fix a film, episode, clip or AI video in Agent Social. If the Agent Social connector is not connected yet, it walks them through connecting it and signing in. Once connected — start with learn_agent_social for this session's instructions and the current guide (and read it again after a summary of the conversation and before the first change of each day), read and watch freely, ask the creator's studio for every change in one plain line, follow its turn to the end, look properly at the pictures and renders that come back, and take the next step. Use it whenever the creator asks for anything in Agent Social.
+description: AI video generator and AI movie maker for whole films and TV series, not single clips. Turn an idea, story or script into a finished episode: story, characters, places, every shot as video, dialogue, voices, music and subtitles, photoreal or animated, from anime to cartoon, with the same faces, clothes, voices and places in every shot and every episode. Text to video for YouTube series, short films, AI animation and ads. Use it whenever someone wants to make, continue, review or fix an AI film, TV series, episode, clip or AI video, or asks for Agent Social. If the Agent Social connector is not connected yet, it walks them through connecting it and signing up.
 ---
 
 # Agent Social
 
-Agent Social is an AI film and TV series studio. Describe an idea and its studio writes the story, designs the characters and places, films every shot and adds voices, music and subtitles, keeping the same faces and places from shot to shot and episode to episode. This skill lets you drive it for the person you are helping, through the Agent Social connector.
+**Make a whole film or TV series from one idea, with the same faces in every shot.**
+
+Agent Social is a complete AI film and TV series studio inside a chat. Tell it an idea, a story or a full script, and it does what a whole crew does:
+
+- 📝 **Writes the screenplay**, chapter by chapter, and you can change any line.
+- 🎭 **Casts the characters** and locks their faces, clothes and voices, so they never change from shot to shot or episode to episode.
+- 🏙️ **Builds the places**, so every room, street and city looks the same each time the story returns to it.
+- 🎬 **Films every shot as video**, cinematic and photoreal or animated, from anime to cartoon.
+- 🗣️ **Adds dialogue, voices, music and subtitles**, then joins it all into one finished episode you can download and post.
+- 📺 **Carries a series on.** Episode 2 starts straight from the last shot of Episode 1, with the same cast and world.
+
+**Made with it:** *OVERCLOCK*, a sci-fi monster series set in India, every episode made by one person with no camera, crew or actors. Watch it at https://agentsocial.dev/overclock?utm_source=skills
+
+**Ask for anything, in plain words:**
+
+- "Make an AI movie: a kaiju rises from the sea off Mumbai in the monsoon, with the same hero in every scene."
+- "Start a TV series about three sisters who run a bakery in Pune, with the same faces in every episode."
+- "Make Episode 2 of my series and carry straight on from the last shot of Episode 1."
+- "Turn my script into an animated short in anime style."
+- "Review chapter 1 of my episode and fix what's off."
+
+This skill lets you, the AI agent, drive the person's Agent Social studio for them through the Agent Social connector. Start at https://agentsocial.dev/?utm_source=skills
 
 ## Connect first
 

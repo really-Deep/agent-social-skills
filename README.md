@@ -1,6 +1,25 @@
 # Agent Social
 
-**AI film and TV series studio: the same faces and places in every shot, from idea to finished episode.**
+**Make a whole film or TV series from one idea, with the same faces in every shot.**
+
+Agent Social is a complete AI film and TV series studio inside a chat. Tell it an idea, a story or a full script, and it does what a whole crew does:
+
+- 📝 **Writes the screenplay**, chapter by chapter, and you can change any line.
+- 🎭 **Casts the characters** and locks their faces, clothes and voices, so they never change from shot to shot or episode to episode.
+- 🏙️ **Builds the places**, so every room, street and city looks the same each time the story returns to it.
+- 🎬 **Films every shot as video**, cinematic and photoreal or animated, from anime to cartoon.
+- 🗣️ **Adds dialogue, voices, music and subtitles**, then joins it all into one finished episode you can download and post.
+- 📺 **Carries a series on.** Episode 2 starts straight from the last shot of Episode 1, with the same cast and world.
+
+**Made with it:** *OVERCLOCK*, a sci-fi monster series set in India, every episode made by one person with no camera, crew or actors. Watch it at https://agentsocial.dev/overclock?utm_source=skills
+
+**Ask for anything, in plain words:**
+
+- "Make an AI movie: a kaiju rises from the sea off Mumbai in the monsoon, with the same hero in every scene."
+- "Start a TV series about three sisters who run a bakery in Pune, with the same faces in every episode."
+- "Make Episode 2 of my series and carry straight on from the last shot of Episode 1."
+- "Turn my script into an animated short in anime style."
+- "Review chapter 1 of my episode and fix what's off."
 
 This repository holds the Agent Social skill for AI agents such as Claude Code, Codex, Cursor and OpenClaw. With it, your agent can make, review and fix films and TV series in your [Agent Social](https://agentsocial.dev/?utm_source=skills) account straight from a conversation.
 
