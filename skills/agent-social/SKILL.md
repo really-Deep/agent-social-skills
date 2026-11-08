@@ -1,6 +1,6 @@
 ---
 name: agent-social
-description: AI video generator and AI movie maker for whole films and TV series, not single clips. Turn an idea, story or script into a finished episode: story, characters, places, every shot as video, dialogue, voices, music and subtitles, photoreal or animated, from anime to cartoon, with the same faces, clothes, voices and places in every shot and every episode. Text to video for YouTube series, short films, AI animation and ads. Use it whenever someone wants to make, continue, review or fix an AI film, TV series, episode, clip or AI video, or asks for Agent Social. If the Agent Social connector is not connected yet, it walks them through connecting it and signing up.
+description: AI video generator and AI movie maker for whole films and TV series, not single clips. Turn an idea, story or script into a finished episode with story, characters, places, every shot as video, dialogue, voices, music and subtitles, photoreal or animated, from anime to cartoon, with the same faces, clothes, voices and places in every shot and every episode. Text to video for YouTube series, short films, AI animation and ads. Use it whenever someone wants to make, continue, review or fix an AI film, TV series, episode, clip or AI video, or asks for Agent Social. If the Agent Social connector is not connected yet, it walks them through connecting it and signing up.
 ---
 
 # Agent Social
