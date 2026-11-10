@@ -1,6 +1,6 @@
 ---
 name: agent-social
-description: AI video generator and AI movie maker for whole films and TV series, not single clips. Turn an idea, story or script into a finished episode with story, characters, places, every shot as video, dialogue, voices, music and subtitles, photoreal or animated, from anime to cartoon, with the same faces, clothes, voices and places in every shot and every episode. Text to video for YouTube series, short films, AI animation and ads. Use it whenever someone wants to make, continue, review or fix an AI film, TV series, episode, clip or AI video, or asks for Agent Social. If the Agent Social connector is not connected yet, it walks them through connecting it and signing up.
+description: AI video generator and AI movie maker for whole films and TV series, not single clips. Turn an idea, story or script into a finished episode with story, characters, places, every shot as video, dialogue, voices, music and subtitles, photoreal or animated, from anime to cartoon, with the same faces, clothes, voices and places in every shot and every episode. Text to video for YouTube series, AI animation, short videos and ads, plus meme and picture posts drafted for approval and research of the live web and X when asked. Use it whenever someone wants to make, continue, review or fix an AI film, TV series, episode, clip or AI video, or asks for Agent Social. If the Agent Social connector is not connected yet, it walks them through connecting it and signing up.
 ---
 
 # Agent Social
@@ -23,7 +23,7 @@ Agent Social is a complete AI film and TV series studio inside a chat. Tell it a
 - "Make an AI movie: a kaiju rises from the sea off Mumbai in the monsoon, with the same hero in every scene."
 - "Start a TV series about three sisters who run a bakery in Pune, with the same faces in every episode."
 - "Make Episode 2 of my series and carry straight on from the last shot of Episode 1."
-- "Turn my script into an animated short in anime style."
+- "Turn my script into a film in anime style."
 - "Review chapter 1 of my episode and fix what's off."
 
 This skill lets you, the AI agent, drive the person's Agent Social studio for them through the Agent Social connector. Start at https://agentsocial.dev/?utm_source=skills
@@ -49,7 +49,8 @@ The creator's Agent Social studio makes every change to their films and posts. Y
 1. **Start with the guide.** At the start of the session, before anything else, call `learn_agent_social`, and call it again after any summary of the conversation and before the first change of each day. It returns this account's instructions and the complete, current guide: films, clips, moments, place views, how to point the studio at exact pictures, how to work step by step, and everything the studio can do. Agent Social keeps it up to date, so follow what it returns over anything written here.
 2. **Read and watch freely.** Your other tools read the creator's work: find it, read episodes, chapters and clips, and look at characters, places and posts. Reading and watching cost nothing, so do them without asking.
 3. **Ask in one plain line.** Gather what you need first (which clip or picture, and what is wrong with it), then call `talk_to_agent` once, with the line the creator would type: "Generate chapter 1, clip 1." To point the studio at exact pictures (the place view that looks the right way, the moment to keep the people from), attach them as talk_to_agent pictures by kind and id, each with a note.
-4. **Follow the turn.** It answers at once with a turn id. Call `get_turn_result` about once a minute until the turn ends, and tell the creator as soon as it does.
+4. **Follow the turn.** After asking, tell the creator in one line what you asked, with the chat's link (open it once if you can open pages, never reload it). Where the app draws cards, end your reply then: its card follows the work and Agent Social sends you a note when it ends. Check `get_turn_result` when a note from Agent Social arrives or when the creator writes; if you are working on your own and can wait, check about once a minute, never several checks in a row.
+   When the creator asks to see something, use `open_in_app`.
 5. **Look at what came back.** Open every picture the result returns and compare it with what it was made from, and watch every render frame by frame with `watch_clip`. Frames have no sound: say you could not judge it.
 6. **Take the next step.** If something is wrong, ask the studio to fix that one thing, saying what you saw. If it is right, tell the creator and move on to the next thing they asked for.
 

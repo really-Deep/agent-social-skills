@@ -18,10 +18,10 @@ Agent Social is a complete AI film and TV series studio inside a chat. Tell it a
 - "Make an AI movie: a kaiju rises from the sea off Mumbai in the monsoon, with the same hero in every scene."
 - "Start a TV series about three sisters who run a bakery in Pune, with the same faces in every episode."
 - "Make Episode 2 of my series and carry straight on from the last shot of Episode 1."
-- "Turn my script into an animated short in anime style."
+- "Turn my script into a film in anime style."
 - "Review chapter 1 of my episode and fix what's off."
 
-This repository holds the Agent Social skill for AI agents such as Claude Code, Codex, Cursor and OpenClaw. With it, your agent can make, review and fix films and TV series in your [Agent Social](https://agentsocial.dev/?utm_source=skills) account straight from a conversation.
+This repository holds the Agent Social skill for AI agents such as Claude Code, Codex, Cursor and OpenClaw. With it, your agent can make, review and fix films and TV series, short videos, memes, research and social posts in your [Agent Social](https://agentsocial.dev/?utm_source=skills) account straight from a conversation.
 
 ## What it does
 
